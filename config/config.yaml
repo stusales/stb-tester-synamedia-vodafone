@@ -1,0 +1,42 @@
+horizon:
+  L3:
+    CHANNENLS:
+      SCRAMBLED_SD_SERVICES:
+        - [5,6]
+      SCRAMBLED_HD_SERVICES:
+        - [1,2]
+      CLEAR_SD_SERVICES:
+        - [6,17]
+      CLEAR_HD_SERVICES:
+        - [3,4]
+      DEFAULT_SERVICE:
+        - [36]
+      FAVOURITE_SERVICE:
+        - [2,9,23]
+    IA:
+      MENU_ITEMS:
+        - [A,B,C,D]
+    STB:
+      CHANNEL_BANNER_TIMEOUT:
+        - 10
+      MOTION_IMAGE_TIMEOUT:
+        - 2
+
+gigatv:
+  SCRAMBLED_SD_SERVICES:
+    - [25,26]
+  SCRAMBLED_HD_SERVICES:
+    - [21,22]
+  CLEAR_SD_SERVICES:
+    - [36,37]
+  CLEAR_HD_SERVICES:
+    - [23,24]
+  DEFAULT_SERVICE:
+    - [24]
+  FAVOURITE_SERVICE:
+    - [5,6,28]
+  CHANNEL_BANNER_TIMEOUT:
+    - 10
+  MOTION_IMAGE_TIMEOUT:
+    - 5
+

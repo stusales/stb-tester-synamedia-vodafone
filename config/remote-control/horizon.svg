@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg version="1.1"
-    xmlns="http://www.w3.org/2000/svg"
-    xmlns:xlink="http://www.w3.org/1999/xlink"
-    x="0px" y="0px" viewBox="0 0 318 1000">
-<image width="318" height="1000"
-xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/4QhqRXhpZgAATU0AKgAAAAgACwEPAAIAAAAGAAAAkgEQAAIA
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     x="0px" y="0px" viewBox="0 0 318 1000">
+    <image width="318" height="1000"
+           xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/4QhqRXhpZgAATU0AKgAAAAgACwEPAAIAAAAGAAAAkgEQAAIA
 AAAbAAAAmAESAAMAAAABAAEAAAEaAAUAAAABAAAAtAEbAAUAAAABAAAAvAEoAAMAAAABAAIAAAEx
 AAIAAAAMAAAAxAEyAAIAAAAUAAAA0AITAAMAAAABAAEAAIdpAAQAAAABAAAA5IglAAQAAAABAAAH
 fAAAAABBcHBsZQBpUGhvbmUgU0UgKDJuZCBnZW5lcmF0aW9uKQAAAAAASAAAAAEAAABIAAAAAUdJ
@@ -1080,31 +1080,31 @@ FBXbqEap5ZYDrHRbFKF30EB4WzCxRNIw7WFuEJQUHwH+ZxLfyrzMH0xekK1iMLGobCzvF1K1W86l
 h8LhJoX2T51HcYq/6hYxL5s4xHT5aROzgP3HxK9ULro4Hy//AIFoKTtrCci8PxA3mgH4MQGzANp+
 K7j1sHCH9xmlxv8A+WOhnBZz5nXQdjzqZfgLvt+CBBG/94gzrveWHvn7ILKxMO8fiKFX1X4gJ/YZ
 YMbFxqgP4F1DIBplD/LLSXwlr5I+BdiY+iFzPzeV4wgOaXNHXW2EkhhGx8BCK6hamu9GGikUNuvd
-XDhA0BQf/mzr+tF3WT+3N3D+lSv6Bl/z/wD/2Q==" />
-<rect key="KEY_0" x="142" y="270" width="40" height="23" class="key" fill="#FFFFFF" opacity="0.01"/>
-<rect key="KEY_1" x="90" y="152" width="36" height="22" class="key" fill="#FFFFFF" opacity="0.01"/>
-<rect key="KEY_2" x="145" y="156" width="37" height="25" class="key" fill="#FFFFFF" opacity="0.01"/>
-<rect key="KEY_3" x="200" y="158" width="35" height="21" class="key" fill="#FFFFFF" opacity="0.01"/>
-<rect key="KEY_4" x="92" y="189" width="35" height="24" class="key" fill="#FFFFFF" opacity="0.01"/>
-<rect key="KEY_5" x="142" y="198" width="40" height="20" class="key" fill="#FFFFFF" opacity="0.01"/>
-<rect key="KEY_6" x="200" y="194" width="36" height="21" class="key" fill="#FFFFFF" opacity="0.01"/>
-<rect key="KEY_7" x="89" y="225" width="38" height="25" class="key" fill="#FFFFFF" opacity="0.01"/>
-<rect key="KEY_8" x="143" y="233" width="37" height="21" class="key" fill="#FFFFFF" opacity="0.01"/>
-<rect key="KEY_9" x="197" y="231" width="38" height="21" class="key" fill="#FFFFFF" opacity="0.01"/>
-<rect key="KEY_BACK" x="139" y="597" width="41" height="25" class="key" fill="#FFFFFF" opacity="0.01"/>
-<rect key="KEY_DOWN" x="135" y="546" width="50" height="32" class="key" fill="#FFFFFF" opacity="0.01"/>
-<rect key="KEY_FASTFORWARD" x="196" y="317" width="38" height="26" class="key" fill="#FFFFFF" opacity="0.01"/>
-<rect key="KEY_LEFT" x="91" y="487" width="29" height="51" class="key" fill="#FFFFFF" opacity="0.01"/>
-<rect key="KEY_MENU" x="136" y="396" width="48" height="30" class="key" fill="#FFFFFF" opacity="0.01"/>
-<rect key="KEY_OK" x="141" y="491" width="37" height="38" class="key" fill="#FFFFFF" opacity="0.01"/>
-<rect key="KEY_PLAYPAUSE" x="143" y="320" width="37" height="22" class="key" fill="#FFFFFF" opacity="0.01"/>
-<rect key="KEY_POWER" x="207" y="113" width="27" height="28" class="key" fill="#FFFFFF" opacity="0.01"/>
-<rect key="KEY_CHANNELDOWN" x="191" y="648" width="41" height="26" class="key" fill="#FFFFFF" opacity="0.01"/>
-<rect key="KEY_CHANNELUP" x="195" y="590" width="38" height="27" class="key" fill="#FFFFFF" opacity="0.01"/>
-<rect key="KEY_RECORD" x="88" y="356" width="36" height="23" class="key" fill="#FFFFFF" opacity="0.01"/>
-<rect key="KEY_REWIND" x="88" y="316" width="35" height="22" class="key" fill="#FFFFFF" opacity="0.01"/>
-<rect key="KEY_RIGHT" x="201" y="481" width="29" height="56" class="key" fill="#FFFFFF" opacity="0.01"/>
-<rect key="KEY_STOP" x="202" y="357" width="34" height="27" class="key" fill="#FFFFFF" opacity="0.01"/>
-<rect key="KEY_TEXT" x="195" y="701" width="37" height="19" class="key" fill="#FFFFFF" opacity="0.01"/>
-<rect key="KEY_UP" x="130" y="437" width="64" height="36" class="key" fill="#FFFFFF" opacity="0.01"/>
+XDhA0BQf/mzr+tF3WT+3N3D+lSv6Bl/z/wD/2Q=="/>
+    <rect key="KEY_0" x="142" y="270" width="40" height="23" class="key" fill="#FFFFFF" opacity="0.01"/>
+    <rect key="KEY_1" x="90" y="152" width="36" height="22" class="key" fill="#FFFFFF" opacity="0.01"/>
+    <rect key="KEY_2" x="145" y="156" width="37" height="25" class="key" fill="#FFFFFF" opacity="0.01"/>
+    <rect key="KEY_3" x="200" y="158" width="35" height="21" class="key" fill="#FFFFFF" opacity="0.01"/>
+    <rect key="KEY_4" x="92" y="189" width="35" height="24" class="key" fill="#FFFFFF" opacity="0.01"/>
+    <rect key="KEY_5" x="142" y="198" width="40" height="20" class="key" fill="#FFFFFF" opacity="0.01"/>
+    <rect key="KEY_6" x="200" y="194" width="36" height="21" class="key" fill="#FFFFFF" opacity="0.01"/>
+    <rect key="KEY_7" x="89" y="225" width="38" height="25" class="key" fill="#FFFFFF" opacity="0.01"/>
+    <rect key="KEY_8" x="143" y="233" width="37" height="21" class="key" fill="#FFFFFF" opacity="0.01"/>
+    <rect key="KEY_9" x="197" y="231" width="38" height="21" class="key" fill="#FFFFFF" opacity="0.01"/>
+    <rect key="KEY_BACK" x="139" y="597" width="41" height="25" class="key" fill="#FFFFFF" opacity="0.01"/>
+    <rect key="KEY_DOWN" x="135" y="546" width="50" height="32" class="key" fill="#FFFFFF" opacity="0.01"/>
+    <rect key="KEY_FASTFORWARD" x="196" y="317" width="38" height="26" class="key" fill="#FFFFFF" opacity="0.01"/>
+    <rect key="KEY_LEFT" x="91" y="487" width="29" height="51" class="key" fill="#FFFFFF" opacity="0.01"/>
+    <rect key="KEY_MENU" x="136" y="396" width="48" height="30" class="key" fill="#FFFFFF" opacity="0.01"/>
+    <rect key="KEY_OK" x="141" y="491" width="37" height="38" class="key" fill="#FFFFFF" opacity="0.01"/>
+    <rect key="KEY_PLAYPAUSE" x="143" y="320" width="37" height="22" class="key" fill="#FFFFFF" opacity="0.01"/>
+    <rect key="KEY_POWER" x="207" y="113" width="27" height="28" class="key" fill="#FFFFFF" opacity="0.01"/>
+    <rect key="KEY_CHANNELDOWN" x="191" y="648" width="41" height="26" class="key" fill="#FFFFFF" opacity="0.01"/>
+    <rect key="KEY_CHANNELUP" x="195" y="590" width="38" height="27" class="key" fill="#FFFFFF" opacity="0.01"/>
+    <rect key="KEY_RECORD" x="88" y="356" width="36" height="23" class="key" fill="#FFFFFF" opacity="0.01"/>
+    <rect key="KEY_REWIND" x="88" y="316" width="35" height="22" class="key" fill="#FFFFFF" opacity="0.01"/>
+    <rect key="KEY_RIGHT" x="201" y="481" width="29" height="56" class="key" fill="#FFFFFF" opacity="0.01"/>
+    <rect key="KEY_STOP" x="202" y="357" width="34" height="27" class="key" fill="#FFFFFF" opacity="0.01"/>
+    <rect key="KEY_TEXT" x="195" y="701" width="37" height="19" class="key" fill="#FFFFFF" opacity="0.01"/>
+    <rect key="KEY_UP" x="130" y="437" width="64" height="36" class="key" fill="#FFFFFF" opacity="0.01"/>
 </svg>
